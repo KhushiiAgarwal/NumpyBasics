@@ -1,1 +1,1 @@
-# NumpyBasics
+# Numpy & Pandas Basics
